@@ -10,8 +10,8 @@ Tugas 2 Github Mekanik KRAI
 
 Jika todo berikut udah dikerjain, checkmarknya diubah jadi x (misalnya [x]).
 
-- [ ] Memodifikasi part 5
-- [ ] Membuat assembly gripper
+- [x] Memodifikasi part 5
+- [x] Membuat assembly gripper
 
 ## Part 5 Modification
 
